@@ -1,0 +1,13 @@
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net7.0\CustomText.json
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net7.0\HelloWorldLibrary.deps.json
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net7.0\HelloWorldLibrary.dll
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\bin\Debug\net7.0\HelloWorldLibrary.pdb
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\HelloWorldLibrary.csproj.AssemblyReference.cache
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\HelloWorldLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\HelloWorldLibrary.AssemblyInfoInputs.cache
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\HelloWorldLibrary.AssemblyInfo.cs
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\HelloWorldLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\HelloWorldLibrary.dll
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\refint\HelloWorldLibrary.dll
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\HelloWorldLibrary.pdb
+C:\Users\Malcolm Lee\source\repos\UltimateHelloWorldApp\HelloWorldLibrary\obj\Debug\net7.0\ref\HelloWorldLibrary.dll
